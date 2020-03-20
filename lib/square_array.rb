@@ -4,8 +4,8 @@ def square_array(numbers)
   
   while counter < numbers.length do
   numbers[counter]**2 
-  puts square_array
-  square_array
   counter += 1
   end
+  puts square_array
+  square_array
 end
