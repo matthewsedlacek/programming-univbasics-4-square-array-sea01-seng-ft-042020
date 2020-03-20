@@ -8,6 +8,7 @@ def square_array(numbers)
   p numbers[counter]**2
   numbers
   counter += 1
+  
   end
   numbers
 end
