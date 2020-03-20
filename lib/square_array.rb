@@ -7,5 +7,3 @@ def square_array(numbers)
   p numbers[counter]**2
   counter += 1
   end
-
-p numbers
