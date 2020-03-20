@@ -3,9 +3,7 @@ def square_array(numbers)
   numbers = [1,2,3]
   
   while counter < numbers.length do
-  numbers[counter]**2 
+  puts numbers[counter]**2 
   counter += 1
-  puts square_array
-  square_array
   end
 end
