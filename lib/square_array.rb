@@ -9,8 +9,4 @@ def square_array(numbers)
   new_numbers.push(numbers[counter])
   counter += 1
   end
-  
-  
-  
-  
 end
