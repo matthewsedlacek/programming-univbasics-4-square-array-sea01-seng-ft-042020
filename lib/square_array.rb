@@ -10,5 +10,3 @@ def square_array([1,2,3])
   counter += 1
   end
 end
-
-p square_array(1,2,3)
