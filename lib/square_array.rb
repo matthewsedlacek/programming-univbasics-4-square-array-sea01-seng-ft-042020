@@ -9,6 +9,7 @@ def square_array(numbers)
   numbers
   counter += 1
   end
+  numbers
 end
 
 square_array(numbers)
